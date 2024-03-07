@@ -33,3 +33,4 @@ A short delay (time.sleep()) is added after each step to visualize the sorting p
 
 ##### The code provides an interactive and educational tool for visualizing the behavior of different sorting algorithms. Users can observe how each algorithm performs on a randomly generated array and understand their characteristics, complexities, and suitability for different scenarios.
 
+![images](https://github.com/Ajeya10/Algorithm_Visualiser/blob/main/images/combo.png?raw=true)
